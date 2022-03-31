@@ -24,4 +24,3 @@ print(mul)
 print(div)
 print(mod)
 print() #extra line for the aesthetic
-
