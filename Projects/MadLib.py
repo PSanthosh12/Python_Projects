@@ -35,7 +35,7 @@ print(f"Pizza was invented by a {adjective} {nationality} chef named {person}.")
 print(f"To make a pizza, you need to take a lump of {noun}, and make a thin, round {adjective2} {noun2}.")
 print(f"Then you cover it with {adjective3} sauce, {adjective4} cheese, and fresh chopped {pluralnoun}.")
 print(f"Next you have to bake it in a very hot {noun3}.")
-print(f"When is tis done, cut it into {number} {shapes}.")
+print(f"When is this done, cut it into {number} {shapes}.")
 print(f"Some kids like {food} pissa the best, but my favorite is the {food2} pizza.")
 print(f"If I could, I would eat pizza {number2} times a day!")
 

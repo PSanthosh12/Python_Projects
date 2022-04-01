@@ -26,7 +26,8 @@ def guess(x):
     print()
 
 #define the parameter for the guess (what x in guess(x) is)
-guess(10) #the computer will generate a number between 1 and 10
+guess(100) 
+#the computer will generate a number between 1 and 10
 #the user will also be prompted to pick a number between 1 and 10
 
 #The End!
