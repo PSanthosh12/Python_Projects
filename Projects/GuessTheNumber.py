@@ -3,10 +3,11 @@
 #README: This program will work with Python's random module, build functions, work with while loops and conditionals, and get user input
 print()
 
-#COMPUTER VERSION: The computer generates a random number that the user is trying to guess
-
 #first we need to import the random module from thePython library for us to use
 import random #random module documentation: https://docs.python.org/3/library/random.html
+
+
+#COMPUTER VERSION: The computer generates a random number that the user is trying to guess
 
 #define a function that generates the random integer
 def guess(x):
@@ -34,4 +35,10 @@ guess(100)
 print("Thank you for playing!")
 print()
 
-#USER VERSION: 
+
+
+#USER VERSION: The user has a number and the computer has to try and guess it
+
+#define a function 
+def computer_guess(x):
+    #continue tutorial from 13:50
