@@ -40,5 +40,5 @@ print()
 #USER VERSION: The user has a number and the computer has to try and guess it
 
 #define a function 
-def computer_guess(x):
+#def computer_guess(x):
     #continue tutorial from 13:50
